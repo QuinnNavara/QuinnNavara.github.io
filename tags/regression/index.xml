@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regression on Quinn Navara&#39;s sports blog</title>
+    <link>http://quinnnavara.github.io/tags/regression/</link>
+    <description>Recent content in regression on Quinn Navara&#39;s sports blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="http://quinnnavara.github.io/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello R Markdown</title>
+      <link>http://quinnnavara.github.io/2020/12/01/hello-r-markdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>http://quinnnavara.github.io/2020/12/01/hello-r-markdown/</guid>
+      <description>--- title: &#34;Hello R Markdown&#34; author: &#34;Frida Gomam&#34; date: 2020-12-01T21:13:14-05:00 categories: [&#34;R&#34;] tags: [&#34;R Markdown&#34;, &#34;plot&#34;, &#34;regression&#34;] --- R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.</description>
+    </item>
+    
+  </channel>
+</rss>
